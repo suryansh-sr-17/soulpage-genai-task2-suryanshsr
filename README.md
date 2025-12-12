@@ -63,6 +63,7 @@ graph TD
 
 ### 1. Clone and Navigate
 ```bash
+git clone https://github.com/suryansh-sr-17/soulpage-genai-task2-suryanshsr.git
 cd conv-knowledge-bot
 ```
 
